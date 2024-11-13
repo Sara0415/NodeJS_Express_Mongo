@@ -1,0 +1,26 @@
+{
+  "name": "-nodejs_express_mongo",
+  "version": "1.0.0",
+  "description": "\"Laboratorio API REST con MongoDB\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/jose3284/-NodeJS_Express_Mongo.git)"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "MongoDB",
+    "API",
+    "REST",
+    "Backend"
+  ],
+  "author": "Jose Manuel Ramos Sierra",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
